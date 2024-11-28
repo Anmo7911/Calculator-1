@@ -56,4 +56,4 @@ This is a simple and responsive web-based calculator built using **HTML**, **CSS
 
 1. Clone or download the repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/calculator.git
+   git clone [https://github.com/Anmo7911/Calculator-1/tree/main]
