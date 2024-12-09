@@ -27,4 +27,4 @@ To run the project locally, ensure you have:
 ### Installation
 1. Clone the repository:
    ```bash
-    https://github.com/your-username/online-quiz-application.git
+    https://github.com/anmo7911/online-quiz-application.git
