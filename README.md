@@ -1,3 +1,5 @@
+# Note : Please Ignore Folder name of 'Calculator' 
+
 # Online Quiz Application
 
 An **Online Quiz Application** designed and developed using HTML, CSS, and JavaScript. This project provides an interactive platform to conduct quizzes, allowing users to test their knowledge in a user-friendly interface.
