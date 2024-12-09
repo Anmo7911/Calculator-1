@@ -1,59 +1,30 @@
-# Calculator
+# Online Quiz Application
 
-This is a simple and responsive web-based calculator built using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations, including addition, subtraction, multiplication, and division. The calculator also includes additional functionalities like clearing the input, deleting the last character, and calculating percentages.
+An **Online Quiz Application** designed and developed using HTML, CSS, and JavaScript. This project provides an interactive platform to conduct quizzes, allowing users to test their knowledge in a user-friendly interface.
 
 ## Features
 
-### Basic Arithmetic Operations
-- Addition, subtraction, multiplication, and division.
+- **Dynamic Quiz Questions**: Displays a set of multiple-choice questions dynamically.
+- **Shuffled Options**: Ensures options are displayed in random order for every question.
+- **Score Tracking**: Keeps track of the user's score and provides real-time feedback.
+- **Retry Option**: Allows users to retake the quiz after completion.
+- **Answer Review**: Displays correct answers for questions answered incorrectly.
+- **Responsive Design**: Optimized for both desktop and mobile users.
 
-### Clear (AC)
-- Resets the display to zero.
+## Technologies Used
 
-### Delete (DEL)
-- Removes the last character entered.
+- **HTML**: Structure and layout of the application.
+- **CSS**: Styling and responsive design.
+- **JavaScript**: Logic for quiz functionality, dynamic rendering, and interactivity.
 
-### Percentage (%)
-- Computes percentages of the number.
+## Getting Started
 
-### Equal (=)
-- Computes the result of the entered mathematical expression.
+### Prerequisites
+To run the project locally, ensure you have:
+- A web browser (e.g., Chrome, Firefox, Edge)
+- Basic knowledge of HTML, CSS, and JavaScript (optional for customization)
 
-### Decimal Support
-- Allows entering decimal points for more precise calculations.
-
-### Responsive Design
-- The layout adjusts for various screen sizes, making it mobile-friendly.
-
-## Files Overview
-
-### `index.html`
-- The HTML file that contains the structure of the calculator, including:
-  - An input field (`inputBox`) to display the calculation results.
-  - A grid of buttons for digits, operators, and special functions such as clear, delete, and equal.
-
-### `style.css`
-- The CSS file that styles the calculator, with:
-  - A clean, modern design using **flexbox** for layout and positioning.
-  - Button styling with hover and click effects for better user interaction.
-  - A gradient background for an appealing look.
-
-### `script.js`
-- The JavaScript file that contains the logic behind the calculator's functionality:
-  - Handles button clicks and updates the input box with the respective values or actions.
-  - Manages operations like clearing the screen, deleting characters, and calculating the result.
-
-## How to Use
-
-1. Open the `index.html` file in your browser.
-2. Click the number and operator buttons to perform calculations.
-3. The input box will display the numbers or result.
-4. Press the **"AC"** button to clear the input.
-5. Press the **"DEL"** button to delete the last entered character.
-6. Press the **"="** button to compute the result of the entered expression.
-
-## Installation
-
-1. Clone or download the repository to your local machine.
+### Installation
+1. Clone the repository:
    ```bash
-   git clone [https://github.com/Anmo7911/Calculator-1/tree/main]
+    https://github.com/your-username/online-quiz-application.git
